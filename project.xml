@@ -1,0 +1,8 @@
+<project info="SuiteCloud IDE generated file, do not edit." setAttributesOnUpdate="false">
+  <folder name="Chatam_HRS" bundleable="false">
+    <folder name="lib" bundleable="false" exclude="false">
+      <file name="sdr_error_handler.js"/>
+    </folder>
+    <file name="Chatam_UE_Complaints_Record.js"/>
+  </folder>
+</project>
